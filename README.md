@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on python backend development.<br>👯 I'm looking to collaborate on python stater process for backend.<br>🤝 I'm looking for help with tote_web project, which is an employee management application.<br>🌱 I'm currently learning python backend development.<br>💬 Ask me about MERN Stack development.<br>⚡ Fun fact - I am an innovative collaborator.<br><br><br>
+🔭 I'm currently working on aws services.<br>👯 I'm looking to collaborate on aws services stater process for backend.<br>🤝 I'm looking for help with tote_web project, which is an employee management application.<br>🌱 I'm currently learning aws lambdas services.<br>💬 Ask me about MERN Stack development.<br>⚡ Fun fact - I am an innovative collaborator.<br><br><br>
 
 
 ## 🌐 Socials:
